@@ -3,7 +3,7 @@ MKD_euklidis_algorithm
 
 The simple code illustrates the method that mathematician Euclid use to find greatest common divisor(GCD) of two integers numbers.
 
-Mathematically definition:
+Mathematic definition:
 if a==b     return a 
 //recursive call until they match 
 if a<b      MKD(a, b-a)   

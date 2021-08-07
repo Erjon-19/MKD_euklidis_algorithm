@@ -1,5 +1,4 @@
-# simplicity-and-beauty-
-MKD_euklidis_algorithm
+## MKD_euklidis_algorithm
 
 The simple code illustrates the method that mathematician Euclid use to find greatest common divisor(GCD) of two integers numbers.
 

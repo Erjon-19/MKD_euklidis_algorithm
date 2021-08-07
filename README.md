@@ -9,3 +9,5 @@ if a<b      MKD(a, b-a)
 else        MKD(b-a, b)
 
 Here I have a list of pairs instead of only 2 integers. 
+
+e.g. MKD(12, 8) = 4

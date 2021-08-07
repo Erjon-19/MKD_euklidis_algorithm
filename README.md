@@ -1,6 +1,6 @@
 ## MKD_euklidis_algorithm
 
-The simple code illustrates the method that mathematician Euclid use to find greatest common divisor(GCD) of two integers numbers.
+This simple code in C++ illustrates the method that mathematician Euclid use to find greatest common divisor(GCD) of two integers numbers.
 
 Mathematic definition:
 if a==b     return a 
